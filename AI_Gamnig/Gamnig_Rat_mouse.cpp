@@ -1,6 +1,6 @@
 /* Designed by Barun Prakash
 Date : 7/6/2106
-Exploring Complex coding using Game 
+Exploring Complex coding using Game */
 
 # include<iostream>
 #include<stdio.h>
