@@ -1,0 +1,54 @@
+This is a Proof of concept for Machine learnnig using productivity tracker:
+Problems:- There is a Team in "XYZ" orgnization has 25 members have 3 ,5 and 7 years of experience people.
+There have three input paramater respectively "No of line code " ,"No  of bugs"  ,"Experince machurity " which is exported into excel sheet.
+Here An idea is the learnning part of regression is to figure out  a set of weight and biase (Like Machurity gain ,Relative experience) by 
+Loooking them acurate prediction of new data .it means to predict the possibility and trainnig model of employe for future.
+
+
+
+
+High lavel:
+(1)Make the model.
+(2)Train the model.
+(3) Vaidate the model.
+
+Algo:-
+(1)Generate the model.
+(2)Calculate the loss.
+(3)Compute the gradients w rt weight and biase.
+(4)Subtract the small amount quantity perportional to gradient.
+
+
+Mathemathical tools:
+(1)Linear regression.
+(2)MSE.
+(3)Graident .
+(4)Backward propegation .
+(5)Cross Enthropy.
+(6)Epoch.
+(7)Sigmoid.
+(8)Iteration.
+(9)Deep and wide networks.
+(10)Logistic regression.
+(11)Softmax etc.
+
+Pytorch Design:
+(1) Design your model using inbuilt class.
+(2)Construct loss and Optimizer.
+(3)Trainnig the cycle forward and backward update.
+
+
+Package:
+import torch
+import torchvision
+from torchvision.datasets import MNIST
+import matplotlib.pyplot as plt
+import torchvision.transforms as transforms
+import numpy as np
+from torch.utils.data.sampler import SubsetRandomSampler
+from torch.utils.data.dataloader import DataLoader
+import torch.nn as nn
+
+
+
+
