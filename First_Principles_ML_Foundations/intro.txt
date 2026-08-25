@@ -1,0 +1,7 @@
+Graduate-level study of machine-learning foundations through conceptual reasoning, 
+mathematical derivations, numerical examples, algorithm internals and verified implementations.
+Level	Component name	Git name
+Deep foundational learning	First-Principles ML Foundations	first-principles-ml-foundations
+Model development	AI Model Engineering & Development	ai-model-engineering
+AI/LLM applications	Intelligent AI Application Engineering	intelligent-ai-applications
+Robotics and Physical AI	Physical & Embodied AI Systems Engineering	physical-embodied-ai-systems
