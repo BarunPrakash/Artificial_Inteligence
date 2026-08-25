@@ -1,0 +1,2 @@
+Development of sensor- and vision-enabled intelligent physical systems integrating perception, multimodal sensor fusion, edge inference, robotic navigation, 
+decision-making, actuation and safe interaction with real-world environments.
