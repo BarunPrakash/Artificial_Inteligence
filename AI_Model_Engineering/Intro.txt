@@ -1,0 +1,16 @@
+It can cover:
+
+Dataset preparation and versioning
+Feature engineering
+Model architecture/design
+Supervised and unsupervised model development
+Training and validation
+Hyperparameter tuning
+Model comparison
+Explainability
+Model optimization
+MLflow experiment tracking
+DVC pipeline management
+Model packaging and deployment readiness
+
+For your predictive-maintenance project, an even more specific name is:
